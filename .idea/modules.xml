@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-banco/01-banco.iml" filepath="$PROJECT_DIR$/01-banco/01-banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-salario-funcionario/02-salario-funcionario.iml" filepath="$PROJECT_DIR$/02-salario-funcionario/02-salario-funcionario.iml" />
-      <module fileurl="file://$PROJECT_DIR$/banco/banco.iml" filepath="$PROJECT_DIR$/banco/banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projetosJava.iml" filepath="$PROJECT_DIR$/.idea/projetosJava.iml" />
     </modules>
   </component>
