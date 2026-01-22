@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-banco/01-banco.iml" filepath="$PROJECT_DIR$/01-banco/01-banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-salario-funcionario/02-salario-funcionario.iml" filepath="$PROJECT_DIR$/02-salario-funcionario/02-salario-funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-pensionato-vetores/03-pensionato-vetores.iml" filepath="$PROJECT_DIR$/03-pensionato-vetores/03-pensionato-vetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projetosJava.iml" filepath="$PROJECT_DIR$/.idea/projetosJava.iml" />
     </modules>
   </component>
